@@ -3,16 +3,18 @@ title: Casa Salitre's Guide
 date: April, 22, 2024
 ---
 
+<img src="img/_81A6619.low.jpg" class="border rounded"/>
+
 ## Introduction
 
 Welcome to Casa Salitre!
-This guide is meant to make your stay as nice as possible, giving you general information about the location, amenities and appliences, access and what to do in town and the surroundings.
+This guide is meant to make your stay as nice as possible, giving you general information about the location, amenities and appliances, access and what to do in town and the surroundings.
 
 ## Access by car
  
 Casa Salitre is located in the old-town of Salobreña. Here is how to access and park as smooth as possible.
 
-![map](./img/map.low.jpeg)
+<img src="./img/map.low.jpeg" class="border rounded"/>
 
 You can find the longer version below, but if you're in a hurry here is a [link to Google Maps](https://www.google.com/maps/dir/''/36.7421149,-3.5876757/36.7405093,-3.5876583/36.7412835,-3.5875691/36.7410881,-3.5891981/@36.7429609,-3.5909107,16z/data=!4m12!4m11!1m5!1m1!1s0xd718fe1b1492be7:0x381a280809a7ddfa!2m2!1d-3.5828317!2d36.7466969!1m0!1m0!1m0!1m0!3e0?entry=ttu
 ), which will bring you from the round-about just at the entry of the town to the Radio Station, which is a convenient space to park and reach Casa Salitre.
@@ -33,35 +35,33 @@ I still recommend you to have a look at the instructions below, to get familiari
 
 ### Detailed climb
 
-<!-- ![annotated-map](./img/annotated-map.low.jpeg) -->
-![annotated-map](./img/annotated-map.low.jpeg)
+<img src="./img/annotated-map.low.jpeg" class="border rounded"/>
 
 1. Turn right at the round-about (see the sign: “A.T. Faldas del Castillo”)
 
-![1](./img/1-crta-playa.low.jpeg)
+<img src="./img/1-crta-playa.low.jpeg" class="border rounded"/>
 
 2. From the cross-roads in front of Hostal Mary-Tere (to your right), take the ascending road to the left (Calle del Rosario). 
 
-![2](./img/2-mary-tere.low.jpeg)
+<img src="./img/2-mary-tere.low.jpeg" class="border rounded"/>
 
-3. You’ll see a bus station on your left (not on the picture), then take a sharp turn to the left (following the “A.T. Faldas del Castillo” sign).
+1. You’ll see a bus station on your left (not on the picture), then take a sharp turn to the left (following the “A.T. Faldas del Castillo” sign).
 
-![3](./img/3-sign.low.jpeg)
-![3](./img/3-sign-b.low.jpeg)
+<img src="./img/3-sign.low.jpeg" class="border rounded" />
+<img src="./img/3-sign-b.low.jpeg" class="border rounded" />
 
-4. Keep ascending right at the next crossing
+1. Keep ascending right at the next crossing
 
-![4](./img/4-ladera.low.jpeg)
+<img src="./img/4-ladera.low.jpeg" class="border rounded" />
 
 5. Reaching the Radio Station
 
-![5](./img/5-radio.low.jpeg)
-![5](./img/5-radio-oriente.low.jpeg)
+<img src="./img/5-radio.low.jpeg" class="border rounded" />
+<img src="./img/5-radio-oriente.low.jpeg" class="border rounded" />
 
 ### Getting out by car
 
 Going out is easier since there is only one way. From the radio keep going in the direction you came in and follow the signs.
-
 
 ## Reaching the house
 
@@ -69,5 +69,5 @@ The access is on Calle Oriente, which connects the square of the Radio Station w
 
 Looking at the door of the Radio Station, check to your left for the stairs going down (Calle Oriente), as the red arrow shows. After going down for a few minutes, Casa Salitre will be on your right. See pictures below.
 
-![5](./img/5-radio-oriente.low.jpeg)
-![casa](./img/entry.low.jpeg)
+<img src="./img/5-radio-oriente.low.jpeg" class="border rounded" />
+<img src="./img/entry.low.jpeg" class="border rounded" />
