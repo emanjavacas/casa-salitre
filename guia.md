@@ -3,7 +3,7 @@ title: Casa Salitre's Guide
 date: April, 22, 2024
 ---
 
-<img src="./img/_81A6619.low.jpg" class="border rounded"/>
+<img src="./img/81A6619.low.jpg" class="border rounded"/>
 
 ## Introduction
 
