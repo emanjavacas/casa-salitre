@@ -27,11 +27,11 @@ I still recommend you to have a look at the instructions below, to get familiari
 
 * Keep straight until the cross-road in front of the Hostel Mary-Tere. 
 
-* From there, start going up on the “Calle del Rosario”. Keep going up, always following the signs for “A.T. Faldas del Castillo” (see the pictures in the following section). 
+* From there, start going up on the “Calle del Rosario”. Keep going up, always following the signs for “A.T. Faldas del Castillo” (see the pictures in the following [section](#detailed-climb)). 
 
 * There will be 3 curves before you reach the top. When you reach the top, you’ll pass by the building of the Radio Station (a rounded building that looks a bit like an UFO). 
 
-* Best places to park are near the Radio Station and the parking next to it.
+* Best places to park are in the [**square**](https://maps.app.goo.gl/LxMzarLG8m5dRCmr7) in front of the Radio Station and the [**parking**](https://maps.app.goo.gl/QvVqL4jLP5GMqn3n7) next to it.
 
 ### Detailed climb
 
@@ -45,12 +45,12 @@ I still recommend you to have a look at the instructions below, to get familiari
 
 <img src="./img/2-mary-tere.low.jpeg" class="border rounded"/>
 
-1. You’ll see a bus station on your left (not on the picture), then take a sharp turn to the left (following the “A.T. Faldas del Castillo” sign).
+3. You’ll see a bus station on your left (not on the picture), then take a sharp turn to the left (following the “A.T. Faldas del Castillo” sign).
 
 <img src="./img/3-sign.low.jpeg" class="border rounded" />
 <img src="./img/3-sign-b.low.jpeg" class="border rounded" />
 
-1. Keep ascending right at the next crossing
+4. Keep ascending right at the next crossing
 
 <img src="./img/4-ladera.low.jpeg" class="border rounded" />
 
@@ -85,9 +85,9 @@ A quick summary of what you should find at home upon arrival.
 
 ### Bathroom
 
-I've arranged it for hand-soap, shampoo, shower gel and conditioner, which you'll find in the bathroom. I'll make my best to ensure that they are always full.
+I've arranged it for hand-soap, shampoo, shower gel and conditioner, which you'll find in the bathroom. When serving yourself, please take care of removing the container from the basket, so as to avoid letting the basket fall to the ground.
 
-There should be two sets of towels below the bathroom sink.
+There should be two sets of towels below the bathroom sink, as well as toilet paper in case it's necessary.
 
 ### Living room & Kitchen
 
@@ -97,7 +97,14 @@ I ask you to be responsible with the usage of the AC, please always keep the doo
 
 There is LED light in the kitchen. The switch is to the left of the worktop when you are looking towards the kitchen.
 
-### WIFI
+### Garden
+
+There are awnings in both the entry terrace and the garden downstairs. Make sure to put them back at night, and especially if it gets windy.
+The awning downstairs can be pushed with the available wooden stick. Please be careful as to not damage the fabric.
+
+The garden has an automatic watering system, which is scheduled to run in the evening. Don't be scare if you start hearing a hissing sound, it's just water coming out of the valves.
+
+## WIFI
 
 The wifi name is `houdini` and the password is `escapingcat!`.
 
@@ -120,17 +127,26 @@ While walking up to the castle, you'll see **Enno's workshop** on the left. Born
 
 <img src="./img/morente.jpg" class="border rounded" alt="Image by Angeles Andrade" />
 
-There are numerous **viewpoints** over the sea to the south, the "vega" to the east as well as the giant mountains to the north. Next to the house is the [viewpoint **Mirador de Enrique Morente**](https://maps.app.goo.gl/y9VAA2PV24DXrZCZ7)  dedicated to the memory of one of the most prolific and internationally known Flamenco singers ([check him on Wikipedia](https://en.wikipedia.org/wiki/Enrique_Morente)).
+There are numerous **viewpoints** over the sea to the south, the "vega" to the east as well as the giant mountains of Sierra Nevada to the north. Next to the house is the [viewpoint **Mirador de Enrique Morente**](https://maps.app.goo.gl/y9VAA2PV24DXrZCZ7)  dedicated to the memory of one of the most prolific and internationally known Flamenco singers ([check him on Wikipedia](https://en.wikipedia.org/wiki/Enrique_Morente)).
 
 Following up on the street Calle Estación on the way towards the Church and the main square, you'll pass by the viewpoint [**Hoyo de la franscunda**](https://maps.app.goo.gl/kQZX2FFs9ohUmfF9A), from which you can observe the cliff below the castle and the bird population that inhabits it.
 
 From the [main square of the old town](https://maps.app.goo.gl/ftirYyDpp57BsfmaA), right below the arcs of the old city hall, you can enjoy a view over the older parts of Salobreña's old town.
 
-#### Beaches
+#### La Caleta
+[**La Caleta**](https://maps.app.goo.gl/hmB4T1uWi7poMUus5) is a nearby-town with an intriguing history. Up until the 60s and for several centuries, Salobreña's main economic activity was **sugar cane**. In order to produce sugar from it, a factory was built in the 19th century in what is now La Caleta. Soon, the factory attracted a lot of workers who started building their homes nearby and slowly the town was consolidated.
+
+<img src="./img/azucarera.jpg" class="border rounded">
+
+The factory is still very present, and the town is totally worth visiting. There's been a recent outdoor photography exhibition [**Caleteros**](https://www.instagram.com/caleteros/) by local artists, which you can visit by just walking around the streets. If you want, you can also purchase the exhibition book from the [**"Estanco"**](https://g.co/kgs/M1iazS5).
+
+<img src="./img/caleteros.jpg" class="border rounded">
+
+### Beaches
 
 For a batch in the sea, you can enjoy the entire shoreline of Salobreña. The water gets refreshed frequently with currents from the Atlantic and it's therefore a bit colder than the eastern parts of the Mediterranean. The water gets its most comfortable temperature around July and stays warm easily until the end of October. 
 
-If you fancy more secluded beaches, do check out the [beach **Playa de la cagailla** or **Punta del río**](https://maps.app.goo.gl/3FAw7PDUxAesyfDa6) to the east (you can walk along the beach or get there by car easily), or for the more adventurous you can try the west-most part of the bay and 
+If you fancy more secluded beaches, do check out the [beach **Playa de la cagailla** or **Punta del río**](https://maps.app.goo.gl/3FAw7PDUxAesyfDa6) to the east (you can walk along the beach or get there by car easily), or for the more adventurous you can try the west-most part of the bay of Salobreña, walking through the town of la Caleta, and reaching [**el Caletón**](https://maps.app.goo.gl/NAvosygrmqyk8L927) (and further) after walking over the stone and rock path.
 
 If by car, you can also enjoy the astonishing beaches in the Nature Reserve past Almuñécar (about 15-20 minutes by car). These beaches are a bit out of the radar, mostly due to the difficulty to reach, since there aren't a lot of parking opportunities. In any case, I've linked them to places where's usually easy to find a parking space. The first one is [**Cantarriján**](https://maps.app.goo.gl/3FAw7PDUxAesyfDa6) (a nudist beach with dining options), which can only be accessed in high season by bus (tickets around 2E). 
 
@@ -139,10 +155,6 @@ Next, is [**el Cañuelo**](https://maps.app.goo.gl/Hk4UfD7zGJA1W3SP6). You'll ha
 Further to the west, you'll find [**Cala Pino**](https://maps.app.goo.gl/V2HEsHKAvhtRTi8K7). Parking is next to the road. From there, you have to follow down a steep path. This beach can be followed to the west over rocks, which allows you to reach **Playa Lapa**.
 
 Finally, furthest to the west is [**Playa del Molino**](https://maps.app.goo.gl/jEEx7NjYqvLfLZWbA). This beach features a small bathtub pool filled with natural water from a spring.
-
-
-#### La Caleta
-[*La Caleta*](https://maps.app.goo.gl/hmB4T1uWi7poMUus5) is a nearby-town with an intriguing history. Up until the 60s and for several centuries, Salobreña's main economic activity was **sugar cane**. In order to produce sugar from it, a factory was built in the 19th century in what is now La Caleta. Soon, the factory attracted a lot of workers who started building their homes nearby and slowly the town was consolidated. The factory is still very present, and the town is totally worth visiting. There's been a recent outdoor photography exhibition "Caleteros" by local artists, which you can visit by just walking around the streets.
 
 ### Food
 There's plenty to discover in the local gastronomy of Salobreña. I've listed my personal favorite places, both in and out of Salobreña. I hope you can find something to your taste.
