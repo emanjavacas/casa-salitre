@@ -108,6 +108,14 @@ The garden has an automatic watering system, which is scheduled to run in the ev
 
 The wifi name is `houdini` and the password is `escapingcat!`.
 
+## Waste
+
+There are several places in the immediate surroundings to dispose of your waste:
+
+- ["Luis Vinuesa A" (corner with "Ladera de la Cruz")](https://maps.app.goo.gl/w3PMLXg8KtCkSZCU7): Rest
+- ["Ladera de la cruz" (coming down "Oriente")](https://maps.app.goo.gl/SQ8yQHJLBtFABjnT9): Rest, Packages (Envases), Paper (Cartón)
+- ["Plaza de la radio"](https://maps.app.goo.gl/3Vdpu4ZyfCiJrVeU7): Rest, Packages (Envases), Paper (Cartón), Glass (Vidrio)
+
 ## Fun
 
 Should you be looking for something to do or where to eat while in Salobreña, I've compiled a list of my favorites. Hope you enjoy it.
