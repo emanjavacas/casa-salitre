@@ -10,6 +10,14 @@ date: April, 22, 2024
 Welcome to Casa Salitre!
 This guide is meant to make your stay as nice as possible, giving you general information about the location, amenities and appliances, access and what to do in town and the surroundings.
 
+## Access by foot
+
+The old town of Salobreña is a bit of a maze. There are multiple ways to reach Casa Salitre (also depending on where you start). Here I detail the way up from the lower part of the town to the closest point Google Maps knows about (find the Google Maps itinerary in the following link [link](https://www.google.com/maps/dir/HOSTAL+MARY+TERE,+Carretera+de+la+Playa,+Salobre%C3%B1a/36.7415011,-3.5865977/36.7413352,-3.5865531/36.7410809,-3.5872802/36.7411705,-3.5875372/36.7410997,-3.5878396/36.7414099,-3.5882791/@36.7412274,-3.5881715,181m/data=!3m1!1e3!4m19!4m18!1m5!1m1!1s0xd718fe37fe824d9:0xeaf00c3de5ac57d5!2m2!1d-3.5862866!2d36.7415743!1m0!1m5!3m4!1m2!1d-3.5872586!2d36.7412466!3s0xd718fe488e0270f:0xef248e75b58a413!1m0!1m0!1m0!1m0!3e2?entry=ttu)). From the ending point of the route you'll be in front of the door if you look towards your left (about 20m away).
+
+<img src="./img/by_foot.png" class="border rounded"/>
+
+The path start at Hostal Mary Tere, at the beginning of the street "Calle Rosario", and ends near the house across the street Calle Albaicín (see arrow in the image above).
+
 ## Access by car
  
 Casa Salitre is located in the old-town of Salobreña. Here is how to access and park as smooth as possible.
